@@ -1,7 +1,7 @@
 # Change Management in Cloud Migration Projects
 
 ## 1. Title
-**Change Management in Cloud Migration Projects: Tracking Issues during Digital Transformation**
+**Change Management in Cloud Migration Projects : Tracking Issues during Digital Transformation**
 
 ---
 
